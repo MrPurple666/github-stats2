@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 64.165%;
+  width: 64.163%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 24.683%;
+  width: 24.682%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
   width: 2.471%;
@@ -178,11 +178,11 @@ div.ellipsis {
   background-color: #ffcc33; 
   width: 0.125%;
 " class="progress-item"></span><span style="
-  background-color: #663399; 
+  background-color: #3178c6; 
   width: 0.109%;
 " class="progress-item"></span><span style="
-  background-color: #3178c6; 
-  width: 0.107%;
+  background-color: #663399; 
+  width: 0.109%;
 " class="progress-item"></span><span style="
   background-color: #e4cc98; 
   width: 0.079%;
@@ -559,22 +559,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #663399;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">CSS</span>
-  <span class="percent">0.11%</span>
-</li>
-<li style="animation-delay: 2550ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #3178c6;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -585,6 +569,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
+  <span class="percent">0.11%</span>
+</li>
+<li style="animation-delay: 2550ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #663399;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">CSS</span>
   <span class="percent">0.11%</span>
 </li>
 <li style="animation-delay: 2700ms;">
